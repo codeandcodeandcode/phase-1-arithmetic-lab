@@ -8,3 +8,6 @@ let multiply = num1 * num2;
 let random = Math.random();
 let mod = num4 / num3;
 let max = Math.max(1, 2, 3, 6, 20);
+
+
+console.log(max);
